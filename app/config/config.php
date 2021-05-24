@@ -8,7 +8,7 @@
 	define('SITENAME','Cisco CMS');
 	//site version
 	define('APPVERSION','1.0.0');
-	//cms URL
+	//cms URL. This url has to be changed in order to get a valid hash
 	define('APICMS', "https://private-anon-5824f16b45-ciscocms.apiary-mock.com/");        
 	
 	
